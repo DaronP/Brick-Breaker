@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Brick Breaker.unity
+  isLoaded: 1
+  isActive: 1
